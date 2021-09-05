@@ -1,2 +1,2 @@
 # desafio1-back-end
-Challenge Back-end Module 1 - Full Stack Course at Cubos Academy
+Back-end Challenge - Module 1 - Full Stack Web Development Course at Cubos Academy
